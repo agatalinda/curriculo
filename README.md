@@ -1,0 +1,2 @@
+# curriculo
+fazer um currículo
