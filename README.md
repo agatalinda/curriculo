@@ -1,2 +1,104 @@
 # curriculo
-fazer um currículo
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!--Header-->
+    <header class="header">
+        <div class="container">
+            <h1><u>Ana Caroline Barbosa Falcao Jesus</u></h1>
+            
+        </div>
+    </header>
+    <!--Conteúdo Principal-->
+    <main class="container main">
+         <!--Contato-->
+        <section class="card">
+            <h2><u>Dados pessoais</u> </h2>
+            <ul>
+                <li><strong>Contato:</strong> (69) 98464-8037</li>
+                <li><strong>Email:</strong> agatalinda2027@gmail.com</li>
+                <li><strong>Cidade:</strong> Porto Velho</li>
+            </ul>
+        </section>
+        <!--Sobre-->
+        <section class="card">
+            <h2><u>Sobre mim</u> </h2>
+            <dl>
+                <dt></dt>
+                <dd>
+                    <p>Me chamo Ana Caroline, tenho 31 anos, sou casada. <br>
+                    Sou desenvolvedora de sites e aplicativos, júnior na área. <br>
+                    Sou responsável, pontual e amo adquirir mais conhecimento. Estou buscando <br>
+                    sempre me atualizar na área de trabalho e tecnologia. <br>
+                    Meu hobby andar de bicicleta, ir ao shopping, assistir dorama, <br>
+                    ler um livro e fazer sites no tempo livres.
+                    </p>
+                </dd>
+            </dl>
+        </section>
+        <!--Escolaridade-->
+        <section class="card">
+            <h2><u>Escolaridade</u></h2>
+            <dl>
+                <dt></dt>
+                <dd>
+                    <p>(01/2012 a 12/2015) Ensino Médio Completo - Escola São Luís / Porto Velho - RO</p>
+                </dd>
+            </dl>
+        </section>
+        <!--Formação acadêmica-->
+        <section class="card">
+            <h2><u>Formação Acadêmica</u></h2>
+            <dl>
+                <dt></dt>
+                <dd>
+                    <p>Sistemas Para Internet – Instituto Federal de Educação, Ciências e Tecnologias de Rondônia, Campus Zona Norte. <br>
+                    2023 – 2024 (trancado) <br>
+                    Status: Curso trancado após o 4º semestre. Conhecimentos em redes, suporte técnico e sistemas operacionais.
+                    </p>
+                </dd>
+            </dl>
+        </section>
+        <!--Cursos de Qualificação-->
+        <section class="card">
+            <h2><u>Cursos de Qualificação</u></h2>
+            <ul>
+                <li>(08/2022 a 10/2022) Atendimento ao Público (40h) - IDEP - Porto Velho - RO</li>
+                <li>(09/2022 a 10/2022) Etiqueta e Postura Profissional (60h) - IDEP - Porto Velho - RO</li>
+                <li>(01/2023 a 03/2023) Auxiliar de Escritório (160h) - IDEP - Porto Velho - RO</li>
+                <li>(08/2025) Auxiliar Administrativo (60h) - IDEP - Porto Velho - RO</li>
+                <li>(10/2025) Contabilidade na Escola (40h) - IDEP - Porto Velho - RO</li>
+                <li>(08/2022 a 12/2022) Informática Avançada - Associação São Tiago Maior - Porto Velho - RO. <br>
+                    Microsoft Office: Word (intermediário), Excel (intermediário), PowerPoint (intermediário)</li>
+                <li>(08/2022 a 12/2022) Informática Básica - Associação São Tiago Maior - Porto Velho - RO. <br>
+                    Microsoft Office: Word (intermediário), Excel (intermediário), PowerPoint (intermediário)</li>
+                <li>(09/2022 a 12/2022) Espanhol Básico - IFRO Campus Calama</li>
+                <li>(09/2023) Libras Básico (40h) - IFRO Campus Zona Norte</li>
+            </ul>
+        </section>
+        <!--Habilidades-->
+        <section class="card">
+            <h2><u>Habilidades</u> </h2>
+            <ul>
+                <li>HTML básico</li>
+                <li>CSS básico</li>
+                <li>Trabalho em equipe</li>
+                <li>Organizada</li>
+                <li>Procuro entregar o melhor resultado possível, mesmo que isso signifique trabalhar um pouco mais para alcançar a excelência.</li>
+            </ul>
+        </section>
+       
+    </main>
+    <!--FOOTER-->
+    <footer class="footer">
+        <p>&copy; 2026 - Minha apresentação pessoal</p>
+    </footer>
+</body>
+</html>
+
